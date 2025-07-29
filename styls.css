@@ -40,3 +40,47 @@
     border-radius: 10px;
     padding: 12px 36px;
 }
+  /* main style */
+
+
+  .main-title{
+    color:#252432 bold;
+  }
+ .subtitle {
+        color:#252432;
+        opacity: 50%;
+          }
+          .action-setion a{
+            background-color: #4E47FF;
+            color: white;
+            text-decoration: none;
+            border-radius: 10px ;
+            padding: 12px 36px;
+          }
+          .action-setion{
+           margin-top:36px ;
+          }
+         .poto {
+          width: 403px;
+          height: 328px;
+          border-radius: 48px;                                                                        
+            
+          
+          } 
+          main{
+            display: flex;
+            justify-content: space-between;
+            max-width: 1140px;
+           padding: 130PX 150px;
+            text-align: center;
+            margin-top: 130px;
+
+            .
+           
+           
+            
+           
+            
+          
+
+          }
