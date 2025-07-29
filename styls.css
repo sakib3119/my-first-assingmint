@@ -1,0 +1,42 @@
+ /* heder style */
+ header{
+    background-image: url(Assets/Hero-bg.png);
+    background-size: cover;
+    min-height: 100vh;
+ }
+
+
+ .title{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    
+ }
+ .title h3{
+    color:#4E47FF;
+    margin: top 12px; ;
+    
+ }
+ .title a {text-decoration: none;
+    background-color: #4E47FF;
+    color:white;
+  padding: 12px 36px;
+  border-radius: 12px;
+  border-style: none;
+  border-sizing:border-box;
+
+  margin-top: 12px;
+
+
+}
+.header-description{
+    text-align: center;
+    margin-top: 158px;
+}
+.header-description a {
+    background-color: #4E47FF;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 12px 36px;
+}
