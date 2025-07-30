@@ -26,6 +26,7 @@
   border-sizing:border-box;
 
   margin-top: 12px;
+  transition: background-color 0.3ease;
 
 
 }
@@ -193,7 +194,21 @@
             
             
           }
-           
+          .all-item {
+            display: flex;
+            text-align: center;
+            justify-content: center;
+            
+          }
+           .last-aicon h1{
+            text-align: center;
+            color: #1E1E1E;
+          
+           }
+           .last-poto img{
+            margin-left: 10px;
+           ;
+           }
           
           
            
