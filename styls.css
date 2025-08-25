@@ -90,7 +90,7 @@
 
           }
           .continer{
-            background-color: #9c99ef;
+            background-color: #cecedc;
             
             
            
@@ -105,17 +105,14 @@
           .hading-contener{
             font-size: 38px ;
             margin-bottom: 30px;
-            color: #252432;
+            color: #4735e6;
             font-weight: bold;
             
           }
-          .start {display: flex;
-            justify-content: space-around;
-            align-items: flex-end;
-            gap: 20px;
+         
 
 
-          }
+          
           .title-start{
             font-size: 80px;
             font-weight: bold;
@@ -147,10 +144,12 @@
             margin-top: 71px;
          padding-right:11% ;
          font-size:15px ;
+         
            }
            .from-23 h3 {
              text-align: start;
              margin-bottom: 0%;
+             margin-bottom: 15px;
            }
               
             .box-1 {
@@ -163,12 +162,18 @@
               
             }
           .button{
-            padding: 5px 20px;
+           
             background-color: #4F49F2;
             color: white;
+            border: 6px solid #4F49F2;
+            border-radius: 6px;
+            margin-top: 5px;
+            padding-left: 45px;
+            padding-right: 45px;
           }
            .div{
             text-align: center;
+            margin-top: 1px;
            }
            .logo{
             font-size: 100px;
@@ -208,6 +213,20 @@
            .last-poto img{
             margin-left: 10px;
            ;
+           }
+           .start-number{
+            display: flex;
+            justify-content: space-between;
+            font-size: 60px;
+            color: #5449F2;
+           
+           }
+           .start-p{
+             display: flex;
+            justify-content: space-between;
+            font-size: 20px;
+            color: #8987A1;
+
            }
           
           
